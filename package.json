@@ -1,0 +1,28 @@
+{
+  "name": "algo-sort-cocktail",
+  "version": "1.0.0",
+  "description": "Bidirectional bubble sort",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/algo-sort-cocktail.git"
+  },
+  "keywords": [
+    "sort",
+    "algorithm",
+    "bubble",
+    "cocktail"
+  ],
+  "author": "Olvier <olivier.wietrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/algo-sort-cocktail/issues"
+  },
+  "homepage": "https://github.com/bredele/algo-sort-cocktail#readme"
+}
