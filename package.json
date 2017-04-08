@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/bredele/algo-sort-cocktail/issues"
   },
-  "homepage": "https://github.com/bredele/algo-sort-cocktail#readme"
+  "homepage": "https://github.com/bredele/algo-sort-cocktail#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
 }
