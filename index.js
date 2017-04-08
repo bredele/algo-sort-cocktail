@@ -8,7 +8,8 @@
  * @api public
  */
 
-module.exports = function(array, distance) {
+module.exports = function(array) {
+  array = array.slice(0)
   var swapped = true
   var start = 0
   var end = array.length
